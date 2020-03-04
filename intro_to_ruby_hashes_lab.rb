@@ -20,8 +20,8 @@ def monopoly_with_third_tier
   # complexity.
   my_dogs = { 
     :railroads => {:pieces => 4, :rent_in_dollars => {
-    :names => "", :b => "", :c => "", :d => ""
-  }}}
+    :a => "", :b => "", :c => "", :d => ""
+  }, :names => ""}}
 end
 
 def monopoly_with_fourth_tier
